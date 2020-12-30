@@ -1,0 +1,9 @@
+Match 3 puzzle game
+Score board 
+Use points defend from monsters
+Monsters have different point values to defend
+Least nights to destroy monster camps wins 
+Need 100 points to launch expedition to destroy camps
+Monsters take point bribes
+Charcters give point amplifiers
+Each match gives points
